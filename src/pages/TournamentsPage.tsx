@@ -22,7 +22,7 @@ type PastTournament = {
 const past: PastTournament[] = [
   {
     title: "ASU FC26 Tournament",
-    img: asuFc26.url,
+    img: asuFc26,
     game: "EA Sports FC 26",
     mode: "1v1",
     date: "19 December 2025",
@@ -33,7 +33,7 @@ const past: PastTournament[] = [
   },
   {
     title: "Pyronyx Open Tournament",
-    img: pyronyxOpen.url,
+    img: pyronyxOpen,
     game: "Counter-Strike 2",
     mode: "2v2",
     date: "24 October 2025",
@@ -43,7 +43,7 @@ const past: PastTournament[] = [
   },
   {
     title: "CS2 Ramadan Tournament",
-    img: cs2Ramadan.url,
+    img: cs2Ramadan,
     game: "Counter-Strike 2",
     mode: "1v1",
     date: "15 March 2025",
@@ -53,7 +53,7 @@ const past: PastTournament[] = [
   },
   {
     title: "CS2 1v1 Tournament",
-    img: cs2First.url,
+    img: cs2First,
     game: "Counter-Strike 2",
     mode: "1v1",
     date: "10 October 2024",
