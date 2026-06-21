@@ -2,10 +2,10 @@ import PageShell from "@/components/PageShell";
 import Tournaments from "@/components/Tournaments";
 import { Calendar, Users, Eye, Trophy, Gamepad2 } from "lucide-react";
 
-import asuFc26 from "@/assets/tournaments/asu-fc26.png.asset.json";
-import pyronyxOpen from "@/assets/tournaments/pyronyx-open.jpeg.asset.json";
-import cs2Ramadan from "@/assets/tournaments/cs2-ramadan.jpeg.asset.json";
-import cs2First from "@/assets/tournaments/cs2-first.jpeg.asset.json";
+import asuFc26 from "@/assets/tournaments/ASU fc26 tournament.png";
+import pyronyxOpen from "@/assets/tournaments/pyronyx open tournament.jpeg";
+import cs2Ramadan from "@/assets/tournaments/cs2 ramadan tournament.jpeg";
+import cs2First from "@/assets/tournaments/cs2 first tournament.jpeg";
 
 type PastTournament = {
   title: string;
